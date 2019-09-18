@@ -1,0 +1,12 @@
+{
+  "name": "shapmover",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "start:dev": "nodemon --watch src index"
+  },
+  "author": "Ali Alfredji",
+  "license": "ISC"
+}
